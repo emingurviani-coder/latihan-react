@@ -18,3 +18,5 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Informasi Project
 
 Project dibuat menggunakan React dan Vite.
+
+## Pengembangan
